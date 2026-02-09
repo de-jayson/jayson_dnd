@@ -1,0 +1,137 @@
+You are an expert full-stack developer and world-class UI/UX designer.
+Build me a complete, production-ready, fully responsive personal developer portfolio website with the following requirements:
+
+🎨 1. Visual Style & Brand
+
+Clean, futuristic, developer-focused aesthetic
+
+Dark mode by default with optional light mode
+
+Uses a modern color palette: deep blacks, glowing neons, gradients, and glassmorphism
+
+Fluid animations using CSS + GSAP or Framer Motion–style effects
+
+Scroll-triggered animations, smooth parallax sections
+
+Subtle code-themed elements (matrix particles, syntax highlighting, grid lines)
+
+⚙️ 2. Technical Requirements
+
+Use HTML, CSS, and JavaScript only (NO React or TypeScript unless necessary)
+
+Folder structure must be clean:
+
+/assets
+   /css
+   /js
+   /images
+   /icons
+index.html
+
+
+Include comments in every file, explaining what each major block does
+
+JavaScript should be modular and cleanly organized
+
+📑 3. Sections to Include
+Hero Section
+
+Animated text that types out my roles
+
+Big introduction headline
+
+Floating tech icons around me
+
+A “Download CV” button
+
+A 3D-ish background or particles canvas
+
+About Me
+
+Short description
+
+Animated timeline of my journey
+
+Cool statistics counters (e.g., projects, years of experience)
+
+Skills Section
+
+Grid-based, creative layout
+
+Interactive hovers with glow effects
+
+Split into Core, Frameworks, Tools, AI/ML, Cloud, etc.
+
+Projects Section
+
+Each project card:
+
+Image or preview
+
+Title, description, tech stack icons
+
+“Live Demo” and “GitHub Repo” buttons
+
+Hover interaction + depth animation
+
+Experience
+
+Vertical or horizontal timeline
+
+Animated transitions
+
+Testimonials (Optional)
+
+Sliding carousel
+
+Minimal + classy
+
+Contact Section
+
+Clean form with validation
+
+Icons for email, GitHub, LinkedIn
+
+Click animation effects
+
+🚀 4. Creative Additions
+
+Add these EXTRA advanced features:
+
+Real-time theme toggler with smooth transitions
+
+Animated cursor effects or particle trails
+
+Custom JS to animate elements on scroll
+
+A “command-line mode” where pressing a key (e.g., ~) opens a fake terminal UI overlay
+
+Easter eggs that make the portfolio unforgettable
+
+📱 5. Responsiveness
+
+Must look perfect on mobile, tablet, and desktop
+
+Fully responsive grids and typography
+
+Use CSS clamp(), grid, and flexbox correctly
+
+🧪 6. Deliverables
+
+Generate:
+
+A fully functional index.html
+
+A complete styles.css
+
+A main.js containing all interactivity
+
+All assets and placeholders required
+
+Clear instructions on how to customize the portfolio
+
+🎯 Goal
+
+Produce a developer-grade, visually stunning, animated, AIRBNB-level polished portfolio that looks like something built by a senior frontend engineer with exceptional UI sense.
+
+Prompt Ends
