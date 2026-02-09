@@ -7,6 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import Portfolio from "@/pages/portfolio";
 import NotFound from "@/pages/not-found";
 
+
 function Router() {
   return (
     <Switch>

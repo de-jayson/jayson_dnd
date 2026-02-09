@@ -15,6 +15,19 @@ export default defineConfig({
   build: {
     outDir: fileURLToPath(new URL("./dist/public", import.meta.url)),
     emptyOutDir: true,
+    rollupOptions: {
+      // Externalize Node-only modules to prevent Rollup warnings
+      external: [
+        "fs",
+        "path",
+        "os",
+        "crypto",
+        "http",
+        "https",
+        "stream",
+        "zlib",
+      ],
+    },
   },
   server: {
     fs: {
